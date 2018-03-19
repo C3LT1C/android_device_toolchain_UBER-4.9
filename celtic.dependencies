@@ -1,8 +1,8 @@
 [
   {
-    "remote":		"bb",
-    "repository":	"matthewdalex/arm-eabi-4.9",
+    "remote":		"gh",
+    "repository":	"NephilimRenown/arm-eabi-4.9",
     "target_path":	"toolchains/UBER/4.9",
-    "revision":		"master"
+    "revision":		"oreo-810"
   }
 ]
